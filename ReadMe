@@ -1,0 +1,46 @@
+CF file includes classifiers related to following papers. Please call these classifiers from the Main file. 
+============================================
+============================================
+Dependencies:
+-Sklearn
+-Gurobi
+-Pandas
+============================================
+============================================
+CLASSIFIERS:
+
+A Random Subspace Classification Method based on Linear Programming:
+-E. Cimen, A Random Subspace Classification Method based on Linear Programming,
+(submitted to) Knowledge-Based Systems.
+
+============================================
+
+O-pcf algorithm for one-class classification:
+-E. Cimen, G. Ozturk, O-pcf algorithm for one-class classification, 
+Optimization Methods and Software 0 (0) (2019) 1–15 (2019).
+
+============================================
+
+k-Means based PCF: 
+-G. Ozturk, M. T. Ciftci, Clustering based polyhedral conic functions algorithm in classification, 
+Journal of Industrial and Management Op- timization 11 (3) (2015) 921–932 (2015).
+
+-E. Cimen, G. Ozturk, Arrhythmia classification via k-means based polyhedral 
+conic functions algorithm, in: 2016 International Conference on Computational 
+Science and Computational Intelligence, 2016, pp. 798– 802 (December 2016).
+
+============================================
+
+Incremental conic functions algorithm: 
+-E. Cimen, G. Ozturk, O. N. Gerek, Incremental conic functions algorithm 
+for large scale classification problems, Digital Signal Processing 77 (2018) 187 – 194 (2018).
+
+-E. Cimen, G. Ozturk, O. N. Gerek, Icf: An algorithm for large scale classification with conic functions, 
+SoftwareX 8 (2018) 59 – 63 (2018).
+
+============================================
+
+Other Related Papers:
+-G. Ozturk, E. Cimen, Polyhedral conic kernel-like functions for svms, 
+Turk J Elec Eng & Comp Sci 0 (0) (2019).
+
